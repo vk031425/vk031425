@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Vinay Kumar
-**A passionate Software Engineer || Game Developer || LeetCoder (Rank : 561,107) || IITD'25**
+**A passionate Software Engineer || Game Developer || LeetCoder (Rank : 440,922) || IITD'25**
 
 Email Me 👉 ✉️ **vinay989633@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
