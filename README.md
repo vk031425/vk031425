@@ -6,7 +6,6 @@ Email Me 👉 ✉️ **vinay989633@gmail.com** For Collaboration/Project or Anyt
 - 🔭 **I’m currently working on:** BingoMultiplayer android application/game
 - 🌱 **I’m currently learning:** Data Structures and Algorithms and Full Stack
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 😄 **Pronouns:** Vinay
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
